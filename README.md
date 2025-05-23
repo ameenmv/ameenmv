@@ -67,8 +67,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ameenmv/ameenmv/output/snake.svg" alt="Snake animation" />
-
-###
 
 
