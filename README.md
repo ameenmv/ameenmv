@@ -29,7 +29,7 @@
 
 ### [📄 Check My CV](https://drive.google.com/file/d/1z3-1ywBLo2t6o5o213GaHjmgw6wl73it/view)
 
-### [🌐 View My Portfolio]([https://a-hemeda.github.io/Portfolio/](https://ameeenmv.netlify.app/))
+### [🌐 View My Portfolio](https://ameeenmv.netlify.app)
 
 ###
 
