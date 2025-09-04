@@ -61,20 +61,16 @@
 
 ### `🔥 GitHub Streak:`
   <p align="left">
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=ameenmv&show_icons=true&theme=highcontrast" height="125"/> &nbsp;
-
-    <!-- GitHub Streak -->
-    <img src="https://streak-stats.demolab.com/?user=ameenmv&theme=highcontrast" height="125"/> &nbsp;
-
-    <!-- Most Used Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ameenmv&layout=compact&langs_count=6&theme=highcontrast" height="125"/>
-
+    <img src="https://github-readme-stats.vercel.app/api?username=ameenmv&show_icons=true&theme=highcontrast" height="125"/> &nbsp; <!-- GitHub Stats -->
+    <img src="https://streak-stats.demolab.com/?user=ameenmv&theme=highcontrast" height="125"/> &nbsp; <!-- GitHub Streak -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ameenmv&layout=compact&langs_count=6&theme=highcontrast" height="125"/> <!-- Most Used Languages -->
   </p>
 
   <p align="left">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
   </p>
+
+  
 
 ###
 
