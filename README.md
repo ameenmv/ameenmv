@@ -60,11 +60,10 @@
 </div>
 
 ### `🔥 GitHub Streak:`
-  <p align="left">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&theme=highcontrast" height="125"/> &nbsp; <!-- GitHub Stats -->
-    <img src="https://streak-stats.demolab.com?user=ameenmv&theme=highcontrast" height="125"/> &nbsp; <!-- GitHub Streak -->
+ ![](https://github-readme-stats.vercel.app/api?username=ameenmv&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ameenmv&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ameenmv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  </p>
 
   <p align="left">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
