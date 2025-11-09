@@ -27,7 +27,7 @@
 ###  
 
 
-### [📄 Check My CV](https://drive.google.com/file/d/1m6MF1BJyxhEAiT4FDg9s4VQtQaUOwY71/view)
+### [📄 Check My CV](https://drive.google.com/file/d/1ka64aGMrpVLL2XMh7FFTvvwckzTFXyij/view?usp=drive_link)
 
 ### [🌐 View My Portfolio](https://ameeenmv.netlify.app)
 
