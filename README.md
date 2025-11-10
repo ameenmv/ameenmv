@@ -26,6 +26,9 @@
 
 ###  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameenmv&label=Profile%20views&color=0e75b6&style=flat" alt="AMEEN MOHAMED" /> </p>
+
+
 
 ### [📄 Check My CV](https://drive.google.com/file/d/1eZ8lHupNRH2EsFtvug1p_zd91KJINPqx/view?usp=drive_link)
 
