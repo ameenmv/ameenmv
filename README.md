@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ameen Mohamed</h1>
 
-### 
+###  
 
 <h3 align="center">Front-end Developer | Vue.js</h3>
 
