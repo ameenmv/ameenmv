@@ -1,85 +1,69 @@
-<h1 align="center">Hi, I'm Ameen Mohamed</h1>
+<div align="center">
+ 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3595F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ameen+Mohamed;Frontend+Developer+%7C+Vue.js;Building+High-Performance+Web+Apps" alt="Typing SVG" />
 
-###  
+  <p>
+    <a href="https://drive.google.com/file/d/1eZ8lHupNRH2EsFtvug1p_zd91KJINPqx/view?usp=drive_link">
+      <img src="https://img.shields.io/badge/Check%20My%20CV-000000?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
+    </a>
+    <a href="https://ameeenmv.netlify.app">
+      <img src="https://img.shields.io/badge/View%20Portfolio-2ea44f?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
 
-<h3 align="center">Front-end Developer | Vue.js</h3>
+  <div id="badges">
+    <a href="www.linkedin.com/in/ameeenmv">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/ameeen_mv">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://x.com/ameeen_mv">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/?view=cm&to=ameeenmv@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://wa.me/201017025076">
+      <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+    </a>
+  </div>
 
-####
+  <br />
+  
+  <img src="https://komarev.com/ghpvc/?username=ameenmv&label=Profile%20Views&color=0e75b6&style=flat-square" alt="AMEEN MOHAMED" />
+
+</div>
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <a href="www.linkedin.com/in/ameeenmv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ameeen_mv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/ameeen_mv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=ameeenmv@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/201017025076" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
+
+| **Frontend** | **Backend & Scripting** | **Languages & Tools** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=vue,react,js,ts,html,css" width="250" /> | <img src="https://skillicons.dev/icons?i=laravel,php,python" width="150" /> | <img src="https://skillicons.dev/icons?i=cpp,cs,git,github" width="200" /> |
+
 </div>
 
-###  
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameenmv&label=Profile%20views&color=0e75b6&style=flat" alt="AMEEN MOHAMED" /> </p>
+### 🔥 GitHub Activity
 
-
-
-### [📄 Check My CV](https://drive.google.com/file/d/1eZ8lHupNRH2EsFtvug1p_zd91KJINPqx/view?usp=drive_link)
-
-### [🌐 View My Portfolio](https://ameeenmv.netlify.app)
-
-###
-
-<h5 align="left">🛠️ Languages & Tools:</h5>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ameenmv&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </div>
 
-### `🔥 GitHub Streak:`
+<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=ameenmv&theme=dark&hide_border=false)<br/>
-
-
-
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
-  </p>
-  
-
-###
-
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ameenmv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ameenmv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ameenmv&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ameenmv&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="languages graph" />
 </div>
 
-###
+<br/>
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+</div>
