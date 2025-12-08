@@ -1,10 +1,10 @@
 <div align="center">
  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=42b883&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ameen+Mohamed;Frontend+Developer+%7C+Vue.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42b883&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ameen+Mohamed;Frontend+Developer+%7C+Vue.js;Building+Scalable+Web+Apps" alt="Typing SVG" />
 
   <p align="center">
-     Creating scalable and responsive web applications with <b>Vue.js</b> & <b>React</b>.<br>
-     Frontend Head at <b>CIS Team</b> | Vice Head at <b>CAT Reloaded</b>
+     Creating high-performance web applications with <b>Vue.js</b> & <b>Laravel</b>.<br>
+     Computer Science Student | <b>Mansoura University</b>
   </p>
 
   <p>
@@ -22,47 +22,57 @@
     </a>
   </p>
 
-  <br />
-
-  <img src="https://komarev.com/ghpvc/?username=ameenmv&label=PROFILE%20VIEWS&color=42b883&style=for-the-badge" alt="AMEEN MOHAMED" />
+  <img src="https://komarev.com/ghpvc/?username=ameenmv&label=PROFILE%20VIEWS&color=42b883&style=flat-square" alt="AMEEN MOHAMED" />
 
 </div>
 
 ---
 
-### 🛠️ Languages & Technologies
+### 💻 Tech Stack & Tools
 
 <div align="center">
 
-| **Core Frontend** | **UI & Animation** | **Backend & Tools** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=vue,react,js,ts" width="180" /> | <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,threejs" width="180" /> | <img src="https://skillicons.dev/icons?i=laravel,php,git,github" width="180" /> |
+<img src="https://skillicons.dev/icons?i=vue,js,ts,tailwind,sass,html,css" height="45" alt="Frontend Tools" />
+<br/>
+<img src="https://skillicons.dev/icons?i=gsap,bootstrap,vite,figma,postman" height="45" alt="Design Tools" />
 
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,git,github" height="45" alt="Backend Tools" />
+
+</div>
+
+### 🧠 Computer Science Fundamentals
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CS50-Introduction-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-Object_Oriented-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Data_Structures-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-Advanced-blueviolet?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/C++-Language-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-Language-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Language-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ameenmv&theme=dark&hide_border=true&background=0D1117&stroke=42b883&ring=42b883&fire=42b883&currStreakLabel=42b883" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ameenmv&theme=dark&hide_border=true&stroke=42b883&ring=42b883&fire=42b883&currStreakLabel=42b883" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameenmv&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&hide_border=true&bg_color=0D1117&title_color=42b883&icon_color=42b883" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ameenmv&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117&title_color=42b883&icon_color=42b883" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ameenmv&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ameenmv&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ameenmv&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
 </div>
