@@ -66,9 +66,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameenmv&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ameenmv&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ameenmv&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ameenmv&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <br/>
