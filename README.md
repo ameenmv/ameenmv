@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    <a href="https://ameenmv.github.io/CV/" target="_blank">
+    <a href="https://drive.google.com/file/d/1jIH_XrTvsft4a1tsWeX8O_it6idT6OJF/view?usp=drive_link" target="_blank">
       <img src="https://img.shields.io/badge/RESUME-202124?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
     </a>
     <a href="https://ameeenmv.netlify.app" target="_blank">
