@@ -2,7 +2,7 @@
  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42b883&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ameen+Mohamed;Frontend+Developer+%7C+Vue.js;Building+Scalable+Web+Apps" alt="Typing SVG" />
  
-  <p align="center">
+  <p align="center"> 
      Creating high-performance web applications with <b>Vue.js</b> & <b>Laravel</b>.<br>
      Computer Science Student | <b>Mansoura University</b>
   </p>
