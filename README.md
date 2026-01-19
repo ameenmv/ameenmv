@@ -28,8 +28,7 @@
 
 ###  About Me
 -  I’m currently working as a **Frontend Developer at neop**, focusing on Vue.js and Nuxt.js.
--  Former **Full Stack Web Developer** trainee at ITI (PHP & Laravel).
--  CS Student at **Mansoura University**, focusing on Software Engineering and NLP.
+-  CS Student at **Mansoura University**, focusing on Software Engineering.
 -  **Leadership**: Serving as **Frontend Head @CIS Team** and **Frontend Vice Head @CAT Reloaded**.
 
 ---
