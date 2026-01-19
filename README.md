@@ -94,5 +94,5 @@
 </div>
 
 <div align="center">
-  <p><i>"The best way to predict the future is to create it."</i></p>
+  <p><i>“The biggest risk is not taking any risk... In a world that changing really quickly, the only strategy that is guaranteed to fail is not taking risks.”</i></p>
 </div>
