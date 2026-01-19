@@ -1,10 +1,9 @@
 <div align="center">
- 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42b883&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ameen+Mohamed;Frontend+Developer+%7C+Vue.js;Building+Scalable+Web+Apps" alt="Typing SVG" />
- 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42b883&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ameen+Mohamed;Software+Engineer;Frontend+Specialist+%7C+Vue.js;Building+Scalable+Web+Apps" alt="Typing SVG" />
+
   <p align="center"> 
-     Creating high-performance web applications with <b>Vue.js</b> & <b>Laravel</b>.<br>
-     Computer Science Student | <b>Mansoura University</b>
+     <b>Frontend Developer @neop</b> | Passionate about creating high-performance web applications. <br>
+     Computer Science Student | <b>Mansoura University</b> | Leadership-driven developer.
   </p>
 
   <p>
@@ -14,7 +13,7 @@
     <a href="https://ameeenmv.netlify.app" target="_blank">
       <img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="www.linkedin.com/in/ameeenmv" target="_blank">
+    <a href="https://www.linkedin.com/in/ameeenmv" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:ameeenmv@gmail.com">
@@ -23,42 +22,62 @@
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=ameenmv&label=PROFILE%20VIEWS&color=42b883&style=flat-square" alt="AMEEN MOHAMED" />
-
 </div>
 
 ---
 
-### 💻 Tech Stack & Tools
+### 🚀 About Me
+- 🔭 I’m currently working as a **Frontend Developer at neop**, focusing on Vue.js and Nuxt.js.
+- 👨‍💻 Former **Full Stack Web Developer** trainee at ITI (PHP & Laravel).
+- 🎓 CS Student at **Mansoura University**, focusing on Software Engineering and NLP.
+- 👥 **Leadership**: Serving as **Frontend Head @CIS Team** and **Frontend Vice Head @CAT Reloaded**.
+- ⚡ Fun fact: I love optimizing performance, moving from 74 to 98 on PageSpeed is my kind of sport.
 
-<div align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=vue,js,ts,tailwind,sass,html,css" height="45" alt="Frontend Tools" />
-<br/>
-<img src="https://skillicons.dev/icons?i=gsap,bootstrap,vite,figma,postman" height="45" alt="Design Tools" />
+### 💻 Tech Stack
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,git,github" height="45" alt="Backend Tools" />
-
+#### 🌐 Frontend Mastery
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,tailwind,sass,bootstrap,html,css" height="40" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Nuxt_UI-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Vuelidate-42b883?style=flat-square" height="25" />
+  <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" height="25" />
 </div>
 
-### 🧠 Computer Science Fundamentals
+#### ⚙️ Backend & Database
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postman" height="40" alt="Backend" />
+  <img src="https://img.shields.io/badge/Web_Services_API-FF6C37?style=flat-square&logo=postman&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Twig-8CA1AF?style=flat-square&logo=symfony&logoColor=white" height="25" />
+</div>
 
+#### 🧪 Data Science & AI
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py,sklearn" height="40" alt="Data Science" />
+  <img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=flat-square" height="25" />
+</div>
+
+#### 🛠️ Professional Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vite,figma,ubuntu" height="40" alt="Tools" />
+</div>
+
+---
+
+### 🧠 Computer Science Fundamentals
 <div align="center">
-  <img src="https://img.shields.io/badge/CS50-Introduction-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-Object_Oriented-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-Data_Structures-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Structures-FFD700?style=for-the-badge&logo=algorithms&logoColor=black" />
   <img src="https://img.shields.io/badge/Algorithms-Advanced-blueviolet?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/C++-Language-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-Language-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Language-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design_Patterns-Critical-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linear_Algebra-Math-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating_Systems-Core-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software_Development-Lifecycle-brightgreen?style=for-the-badge" />
 </div>
 
 ---
 
 ### 📊 GitHub Activity
-
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ameenmv&theme=dark&hide_border=true&stroke=42b883&ring=42b883&fire=42b883&currStreakLabel=42b883" alt="GitHub Streak" />
 </div>
@@ -67,7 +86,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ameenmv&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
-  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ameenmv&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph" />
 </div>
 
@@ -75,4 +93,8 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+</div>
+
+<div align="center">
+  <p><i>"The best way to predict the future is to create it."</i></p>
 </div>
