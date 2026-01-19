@@ -3,7 +3,7 @@
 
   <p align="center"> 
      <b>Frontend Developer @neop</b> | Passionate about creating high-performance web applications. <br>
-     Computer Science Student | <b>Mansoura University</b> | Leadership-driven developer.
+     Computer Science Student | <b>Mansoura University</b>.
   </p>
 
   <p>
