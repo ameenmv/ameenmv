@@ -4,7 +4,7 @@
   <p align="center"> 
      <b>Frontend Developer @neop</b> | Passionate about creating high-performance web applications. <br>
      Computer Science Student | <b>Mansoura University</b>.
-  </p>
+  </p> 
 
   <p>
     <a href="https://drive.google.com/file/d/1jIH_XrTvsft4a1tsWeX8O_it6idT6OJF/view?usp=drive_link" target="_blank">
