@@ -7,7 +7,7 @@
   </p> 
 
   <p>
-    <a href="https://drive.google.com/file/d/1jIH_XrTvsft4a1tsWeX8O_it6idT6OJF/view?usp=drive_link" target="_blank">
+    <a href="https://drive.google.com/file/d/1IZAIni6HLAIoZcogVE7WbQBQf_dPkwO9/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/RESUME-202124?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
     </a>
     <a href="https://ameeenmv.netlify.app" target="_blank">
