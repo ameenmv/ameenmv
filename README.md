@@ -3,10 +3,14 @@
   <!-- HEADER BANNER -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Ameen%20Mohamed&fontColor=42b883&fontSize=55&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20Vue.js%20%26%20Nuxt.js%20Specialist&descColor=e0e0e0&descSize=18&descAlignY=55&animation=fadeIn" />
 
-  <!-- TYPING SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=42b883&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%9A%80+Building+Scalable+Web+Experiences;%F0%9F%92%9A+Vue.js+%7C+Nuxt.js+%7C+TypeScript;%F0%9F%8E%AF+Clean+Code+%E2%80%A2+Modern+Architecture" alt="Typing SVG" />
+</div>
 
-  <br/>
+<div align="center">
+
+  <!-- TYPING SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=42b883&center=true&vCenter=true&repeat=true&width=550&height=30&lines=Building+Scalable+Web+Experiences;Vue.js+%7C+Nuxt.js+%7C+TypeScript;Clean+Code+%E2%80%A2+Modern+Architecture" alt="Typing SVG" />
+
+  <br/><br/>
 
   <!-- SOCIAL BADGES -->
   <a href="https://www.linkedin.com/in/ameeenmv" target="_blank">
@@ -37,7 +41,7 @@
 <br/>
 
 <!-- ABOUT ME -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> &nbsp;About Me
+## About Me
 
 ```js
 const ameen = {
@@ -49,29 +53,24 @@ const ameen = {
     ],
     currentFocus: ["Vue.js", "Nuxt.js", "TypeScript", "Scalable Architecture"],
     passion: "Building high-performance, user-centric web applications",
-    funFact: "I built an AI CLI tool that roasts your terminal errors in Egyptian Arabic 😂"
+    funFact: "I built an AI CLI tool that roasts your terminal errors in Egyptian Arabic"
 };
 ```
 
 <table>
   <tr>
-    <td>🏢</td>
     <td><b>Frontend Developer</b> at <b>neop</b> — Vue.js, Nuxt.js, Tailwind CSS, Pinia</td>
   </tr>
   <tr>
-    <td>🎓</td>
     <td><b>Computer Science</b> — Mansoura University (Software Engineering Focus)</td>
   </tr>
   <tr>
-    <td>👨‍💻</td>
     <td><b>Frontend Head</b> @ CIS Team &nbsp;|&nbsp; <b>Frontend Vice Head</b> @ CAT Reloaded</td>
   </tr>
   <tr>
-    <td>🎬</td>
     <td><b>Content Creator</b> — Teaching Vue.js & Nuxt.js on YouTube</td>
   </tr>
   <tr>
-    <td>🌍</td>
     <td>Based in <b>Mansoura, Egypt</b></td>
   </tr>
 </table>
@@ -79,7 +78,7 @@ const ameen = {
 <br/>
 
 <!-- EXPERIENCE TIMELINE -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="28" /> &nbsp;Professional Experience
+## Professional Experience
 
 <table>
   <tr>
@@ -111,10 +110,10 @@ const ameen = {
 <br/>
 
 <!-- TECH STACK -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
+## Tech Stack
 
-<details>
-<summary><b>🟢 Frontend Mastery</b> — Click to expand</summary>
+<details open>
+<summary><b>Frontend Mastery</b></summary>
 <br/>
 
 | Category | Technologies |
@@ -131,7 +130,7 @@ const ameen = {
 </details>
 
 <details>
-<summary><b>⚙️ Backend & Database</b> — Click to expand</summary>
+<summary><b>Backend & Database</b></summary>
 <br/>
 
 | Category | Technologies |
@@ -145,7 +144,7 @@ const ameen = {
 </details>
 
 <details>
-<summary><b>🛠️ Tools & Workflow</b> — Click to expand</summary>
+<summary><b>Tools & Workflow</b></summary>
 <br/>
 
 | Category | Technologies |
@@ -158,7 +157,7 @@ const ameen = {
 </details>
 
 <details>
-<summary><b>🧠 CS Fundamentals</b> — Click to expand</summary>
+<summary><b>CS Fundamentals</b></summary>
 <br/>
 
 <div align="center">
@@ -179,12 +178,12 @@ const ameen = {
 <br/>
 
 <!-- FEATURED PROJECTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" /> &nbsp;Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🏦 Saaf — Fintech Investment Platform</h3>
+      <h3 align="center">Saaf — Fintech Investment Platform</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vuedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Pinia-42b883?style=flat-square" />
@@ -195,7 +194,7 @@ const ameen = {
       <p>A fintech platform providing seamless access to various fund categories (real estate, equity). Implemented <b>secure RBAC login flow</b>, <b>real-time fund updates</b> via Pusher, interactive financial dashboards with Chart.js, and full <b>localization (i18n)</b>.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🎮 Nabeeh — Competitive Gaming Platform</h3>
+      <h3 align="center">Nabeeh — Competitive Gaming Platform</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/NuxtUI-00DC82?style=flat-square" />
@@ -207,7 +206,7 @@ const ameen = {
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🛒 Exclusive — E-Commerce Platform</h3>
+      <h3 align="center">Exclusive — E-Commerce Platform</h3>
       <p align="center">
         <a href="https://github.com/ameenmv/exclusive">
           <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -219,7 +218,7 @@ const ameen = {
       <p>Complete multi-role e-commerce platform (User, Company, Admin) with <b>full CRUD, authentication & role-based permissions</b>, responsive UI, real API integration. Implemented data validation, animations, and smooth transitions.</p>
     </td>
     <td width="50%">
-      <h3 align="center">📚 MVLib — Library Management System</h3>
+      <h3 align="center">MVLib — Library Management System</h3>
       <p align="center">
         <a href="https://github.com/ameenmv/mvlib">
           <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -236,7 +235,7 @@ const ameen = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🌐 Personal Portfolio v2</h3>
+      <h3 align="center">Personal Portfolio v2</h3>
       <p align="center">
         <a href="https://ameeenmv.netlify.app">
           <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
@@ -248,13 +247,13 @@ const ameen = {
       <p>Rebuilt from scratch with Vue.js, Tailwind CSS, and GSAP. Focused on <b>smooth animations</b>, improved usability, and a professional feel that highlights growth as a Frontend Developer.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 SaSer CLI — Open Source</h3>
+      <h3 align="center">SaSer CLI — Open Source</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_AI-886FBF?style=flat-square&logo=googlegemini&logoColor=white" />
         <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
       </p>
-      <p>An <b>AI-powered CLI tool on NPM</b> — the "Sarcastic Egyptian Senior Dev" 😂 Intercepts terminal errors to provide culturally-relevant explanations and technical fixes using a <b>high-performance 3-layer resolution system</b>.</p>
+      <p>An <b>AI-powered CLI tool on NPM</b> that intercepts terminal errors to provide culturally-relevant explanations and technical fixes using a <b>high-performance 3-layer resolution system</b>.</p>
     </td>
   </tr>
 </table>
@@ -262,38 +261,41 @@ const ameen = {
 <br/>
 
 <!-- LEADERSHIP & COMMUNITY -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Teacher.png" alt="Teacher" width="28" /> &nbsp;Leadership & Community
+## Leadership & Community
 
 <div align="center">
 
 | Role | Organization | What I Do |
 |:----:|:------------:|:----------|
-| **🎯 Frontend Head** | **CIS Team** | Leading the frontend team • Overseeing UI implementation • Creating learning roadmaps • Code reviews & mentoring |
-| **🚀 Frontend Vice Head** | **CAT Reloaded** | Managing frontend activities • Leading training sessions & workshops • Designing learning paths for developers |
-| **🎬 Content Creator** | **YouTube** | Teaching Vue.js & Nuxt.js • Software engineering principles • Accelerating dev workflows with AI tools |
+| **Frontend Head** | **CIS Team** | Leading the frontend team • Overseeing UI implementation • Creating learning roadmaps • Code reviews & mentoring |
+| **Frontend Vice Head** | **CAT Reloaded** | Managing frontend activities • Leading training sessions & workshops • Designing learning paths for developers |
+| **Content Creator** | **YouTube** | Teaching Vue.js & Nuxt.js • Software engineering principles • Accelerating dev workflows with AI tools |
 
 </div>
 
 <br/>
 
 <!-- GITHUB STATS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" /> &nbsp;GitHub Analytics
+## GitHub Analytics
 
+<!-- STREAK - THE MAIN EVENT -->
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ameenmv&theme=github-dark-blue&hide_border=true&stroke=42b883&ring=42b883&fire=42b883&currStreakLabel=42b883&sideLabels=42b883&dates=888888" width="49%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ameenmv&show_icons=true&count_private=true&theme=github_dark&hide_border=true&icon_color=42b883&title_color=42b883&text_color=c9d1d9" width="49%" alt="GitHub Stats" />
+  <a href="https://github.com/ameenmv">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=ameenmv&theme=radical&hide_border=true&ring=42b883&fire=ff6b6b&currStreakLabel=42b883&sideLabels=42b883&currStreakNum=ffffff&sideNums=ffffff&dates=888888&stroke=42b88322&background=0d1117" width="70%" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ameenmv&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=42b883&text_color=c9d1d9" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ameenmv&show_icons=true&count_private=true&theme=github_dark&hide_border=true&icon_color=42b883&title_color=42b883&text_color=c9d1d9&bg_color=0d1117" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ameenmv&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=42b883&text_color=c9d1d9&bg_color=0d1117" width="49%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ameenmv&theme=github-compact&hide_border=true&color=42b883&line=42b883&point=ffffff&area=true&area_color=42b883" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ameenmv&theme=github-compact&hide_border=true&color=42b883&line=42b883&point=ffffff&area=true&area_color=42b883&bg_color=0d1117" width="95%" alt="Activity Graph" />
 </div>
 
 <br/>
