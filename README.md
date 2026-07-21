@@ -7,7 +7,7 @@
   </p> 
 
   <p>
-    <a href="https://cv-ten-beige-25.vercel.app" target="_blank">
+    <a href="https://ameeencv.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/RESUME-202124?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
     </a>
     <a href="https://ameeen.me" target="_blank">
