@@ -91,7 +91,7 @@
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ameenmv&theme=dark&hide_border=true&stroke=42b883&ring=42b883&fire=42b883&currStreakLabel=42b883" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ameenmv&theme=dark&hide_border=true&stroke=42b883&ring=42b883&fire=42b883&currStreakLabel=42b883" alt="GitHub Streak" />
 </div>
 
 <br/>
