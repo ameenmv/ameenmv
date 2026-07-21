@@ -46,18 +46,22 @@
 #### 🌐 Frontend Mastery
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,tailwind,sass,bootstrap,html,css" height="40" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Nuxt_UI-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Vuelidate-42b883?style=flat-square" height="25" />
-  <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Pinia-FFE16B?style=flat-square&logo=vuedotjs&logoColor=black" height="25" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" height="25" />
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/Nuxt_UI-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Vuelidate-42b883?style=flat-square" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Pinia-FFE16B?style=flat-square&logo=vuedotjs&logoColor=black" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Zod-3068b7?style=flat-square&logo=zod&logoColor=white" height="25" />
 </div>
 
 #### ⚙️ Backend & Database
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,php,laravel,mysql,postman" height="40" alt="Backend" />
+  <br />
+  <br />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" height="25" />
 </div>
 
