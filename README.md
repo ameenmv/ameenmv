@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42b883&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ameen+Mohamed;Software+Engineer;Frontend+Specialist+%7C+Vue.js;Building+Scalable+Web+Apps" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42b883&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Ameen+Mohamed;Mid-Level+Front-End+Developer;Specializing+in+Vue.js+%26+Nuxt.js;Building+Scalable+Web+Architectures" alt="Typing SVG" /> 
 
   <p align="center"> 
      <b>Frontend Developer @neop</b> | Passionate about creating high-performance web applications. <br>
@@ -7,14 +7,20 @@
   </p> 
 
   <p>
-    <a href="https://drive.google.com/file/d/1IZAIni6HLAIoZcogVE7WbQBQf_dPkwO9/view?usp=sharing" target="_blank">
+    <a href="https://cv-ten-beige-25.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/RESUME-202124?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
     </a>
-    <a href="https://ameeenmv.netlify.app" target="_blank">
+    <a href="https://ameeen.me" target="_blank">
       <img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/ameeenmv" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.npmjs.com/~ameenmv" target="_blank">
+      <img src="https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+    </a>
+    <a href="https://www.youtube.com/@codingwithameen" target="_blank">
+      <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
     </a>
     <a href="mailto:ameeenmv@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -27,9 +33,11 @@
 ---
 
 ###  About Me
--  I’m currently working as a **Frontend Developer at neop**, focusing on Vue.js and Nuxt.js.
--  CS Student at **Mansoura University**, focusing on Software Engineering.
--  **Leadership**: Serving as **Frontend Head @CIS Team** and **Frontend Vice Head @CAT Reloaded**.
+- I’m currently working as a **Frontend Developer at neop**, delivering complex production applications utilizing **Vue.js**, **Nuxt.js**, and **Pinia**.
+- CS Student at **Mansoura University**, focusing on Software Engineering.
+- **Full-Stack Capable**: Experience in architecting full-stack ecosystems with Node.js, NestJS, and MongoDB.
+- **Leadership & Mentorship**: **Frontend Tech Lead & Mentor** @ CIS Team & CAT Reloaded, mentoring a developer community of **150+ members**.
+- **Content Creator**: I author technical engineering content on my YouTube channel, diving into JS engine internals, rendering optimization, and frontend architectures.
 
 ---
 
@@ -41,25 +49,31 @@
   <img src="https://img.shields.io/badge/Nuxt_UI-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Vuelidate-42b883?style=flat-square" height="25" />
   <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Pinia-FFE16B?style=flat-square&logo=vuedotjs&logoColor=black" height="25" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Zod-3068b7?style=flat-square&logo=zod&logoColor=white" height="25" />
 </div>
 
 #### ⚙️ Backend & Database
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postman" height="40" alt="Backend" />
-  <img src="https://img.shields.io/badge/Web_Services_API-FF6C37?style=flat-square&logo=postman&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Twig-8CA1AF?style=flat-square&logo=symfony&logoColor=white" height="25" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,php,laravel,mysql,postman" height="40" alt="Backend" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" height="25" />
 </div>
 
-#### 🧪 Data Science & AI
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py,sklearn" height="40" alt="Data Science" />
-  <img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=flat-square" height="25" />
-</div>
-
-#### 🛠️ Professional Tools
+#### 🛠️ Architecture & Tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vite,figma,ubuntu" height="40" alt="Tools" />
 </div>
+
+---
+
+### Featured Projects & Open Source
+
+- **SAAF | Enterprise Fintech Ecosystem**: Architected a fintech ecosystem delivering 840+ unique views with complex state logic managed by Pinia. Optimized rendering and established real-time reactivity utilizing WebSockets.
+- **Haze Clue | Real-Time BCI Platform**: Built a full-stack real-time cognitive monitoring platform utilizing Nuxt 4, NestJS, and MongoDB, processing live EEG data via WebSockets.
+- **Sa5er CLI (Open Source)**: Architected an AI-powered Node.js CLI on NPM that intercepts terminal errors and provides context-aware technical fixes utilizing local caching.
+- **Athar (Open Source)**: Engineered a local-first Model Context Protocol (MCP) server that transforms AI-generated bug resolutions into an actionable developer knowledge base.
 
 ---
 
