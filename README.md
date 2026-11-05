@@ -10,7 +10,6 @@
 
 <br/><br/>
 
-<img src="./assets/impact.svg" width="100%" alt="15+ apps · 1,180+ components · <1s real-time · 150+ mentored" />
 
 </div>
 
@@ -42,7 +41,7 @@ I like real-time systems, fast SSR, and smooth animations. I also mentor **150+ 
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=ameenmv&hide_border=true&border_radius=22&background=f3ece2&ring=ff8400&fire=ff8400&currStreakNum=2d2a24&sideNums=2d2a24&currStreakLabel=052e87&sideLabels=052e87&dates=8a8173&stroke=e0cfb8" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=ameenmv&hide_border=true&border_radius=22&background=f3ece2&ring=ff8400&fire=ff8400&currStreakNum=2d2a24&sideNums=2d2a24&currStreakLabel=052e87&sideLabels=052e87&dates=8a8173&stroke=e0cfb8" width="420" />
 
 <br/><br/>
 
