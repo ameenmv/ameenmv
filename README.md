@@ -24,17 +24,6 @@ I like real-time systems, fast SSR, and smooth animations. I also mentor **150+ 
 
 <br/><br/>
 
-<img src="./assets/projects.svg" width="100%" alt="Projects" />
-
-<sub>
-<a href="https://saaf.com.sa/"><b>SAAF</b></a> · enterprise fintech, 33 Pinia stores, 2-tier RBAC, Pusher WebSockets &nbsp;|&nbsp;
-<a href="https://haze-clue-website.vercel.app/"><b>Haze Clue</b></a> · live EEG cognitive monitoring, Nuxt 4 + NestJS &nbsp;|&nbsp;
-<a href="https://www.npmjs.com/~ameeen_mv"><b>Sa5er CLI</b></a> · the sarcastic Egyptian senior dev in your terminal &nbsp;|&nbsp;
-<b>Athar</b> · local-first MCP server with spaced repetition
-</sub>
-
-<br/><br/>
-
 ### 🧰 Toolbox
 
 <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,ts,tailwind,sass,nodejs,nestjs,mongodb,laravel,mysql,git,vite,figma&theme=light&perline=15" />
